@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-James Swaro
+
+Somethign
